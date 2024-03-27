@@ -6,3 +6,5 @@
 there is alway more to learn.
 
 [my nuget packages](https://www.nuget.org/packages?q=matthias77) using reflection. CliUi is an attempt at an interactive autofill command line library, while CmdLineArgs puts supplied values into fields and properties indicated by attributes.
+
+I have a small [blog](https://mefju7.priv.no/blog) which I use as a pensive for storing small snippets and ideas.
