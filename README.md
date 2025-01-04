@@ -7,4 +7,4 @@ there is alway more to learn.
 
 I have a small [blog](https://mefju7.priv.no/blog) which I use as a pensive for storing small snippets and ideas.
 
-[my nuget packages](https://www.nuget.org/packages?q=matthias77) using reflection. CmdLineArgs puts supplied values into fields and properties indicated by attributes. The CliUI project failed due to the inconsistent behavior of different terminals in windows and no way to determine which one is which from CSharp. 
+[my nuget packages](https://www.nuget.org/packages?q=matthias77) are using reflection. CmdLineArgs puts supplied values into fields and properties indicated by attributes. The CliUI project failed due to the inconsistent behavior of different terminals in windows and no way to determine which one is which from CSharp. 
